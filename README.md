@@ -1,5 +1,5 @@
 # Note
-The repository containing the actual implementation of this agent is private per Georgia Tech Policy. Let me know if you need to see the code for this project.
+The repository containing the actual implementation of this project is private per Georgia Tech Policy. Let me know if you need to see the code for this project.
 
 # Overview
 This project was done using Python, NumPy, Pandas, and Matplotlib.
